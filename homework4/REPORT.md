@@ -1,7 +1,7 @@
 # Задание 1: Сравнение CNN и полносвязных сетей
 ## 1.1 Сравнение на MNIST
 ### Полносвязная сеть
-![plot]([homework4/results/fc_simple_mnist_confusion_matrix.png](https://github.com/Rainbow-lo-ol/fundamentals-dl-ai/blob/main/homework4/results/fc_simple_mnist_confusion_matrix.png))
+![plot](https://github.com/Rainbow-lo-ol/fundamentals-dl-ai/blob/main/homework4/results/fc_simple_mnist_confusion_matrix.png)
 Confusion Matrix показывает, что модель допустила больше ошибок по сравнению с CNN. Общая точность,  ниже, чем у CNN.
 
 ![plot](./directory_1/directory_2/.../directory_n/plot.png)
