@@ -1,0 +1,425 @@
+{
+  "configs": {
+    "light": {
+      "augmentations": [
+        "Flip",
+        "Noise"
+      ],
+      "timestamp": "2025-07-08T05:56:50.522101"
+    },
+    "medium": {
+      "augmentations": [
+        "Flip",
+        "Noise",
+        "Erase"
+      ],
+      "timestamp": "2025-07-08T05:56:50.522101"
+    },
+    "heavy": {
+      "augmentations": [
+        "Flip",
+        "Noise",
+        "CutOut"
+      ],
+      "timestamp": "2025-07-08T05:56:50.522101"
+    }
+  },
+  "examples": [
+    {
+      "original": "02b8c85727aa4d9978ae2cb518affb2a.jpg",
+      "class": "\u0413\u0430\u0440\u043e\u0443",
+      "original_size": [
+        563,
+        311
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    },
+    {
+      "original": "07ab564da08a1579acecfd41d4b5859c.jpg",
+      "class": "\u0413\u0430\u0440\u043e\u0443",
+      "original_size": [
+        564,
+        564
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    },
+    {
+      "original": "08a7ce2efd7b8b95a254833da966265f.jpg",
+      "class": "\u0413\u0435\u043d\u043e\u0441",
+      "original_size": [
+        564,
+        564
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    },
+    {
+      "original": "0c8cfc6db27f4a32cc8b353e95bad8c3.jpg",
+      "class": "\u0413\u0435\u043d\u043e\u0441",
+      "original_size": [
+        563,
+        751
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    },
+    {
+      "original": "05eaf704e653c1cedad80dedc0e30824.jpg",
+      "class": "\u0421\u0430\u0439\u0442\u0430\u043c\u0430",
+      "original_size": [
+        564,
+        564
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    },
+    {
+      "original": "0a09659b49688d2014b931847c67236d.jpg",
+      "class": "\u0421\u0430\u0439\u0442\u0430\u043c\u0430",
+      "original_size": [
+        563,
+        458
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    },
+    {
+      "original": "00badad3b4e440bc1264bf25f0ea65f2.jpg",
+      "class": "\u0421\u043e\u043d\u0438\u043a",
+      "original_size": [
+        564,
+        564
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    },
+    {
+      "original": "03ca57e4c44cdde0ff52a22ad0a137ca.jpg",
+      "class": "\u0421\u043e\u043d\u0438\u043a",
+      "original_size": [
+        500,
+        333
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    },
+    {
+      "original": "06c27614479e71583feac6d0e98f3073.jpg",
+      "class": "\u0422\u0430\u0442\u0441\u0443\u043c\u0430\u043a\u0438",
+      "original_size": [
+        540,
+        418
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    },
+    {
+      "original": "07a9a61afeb1a2ee41ba114407d1e292.jpg",
+      "class": "\u0422\u0430\u0442\u0441\u0443\u043c\u0430\u043a\u0438",
+      "original_size": [
+        267,
+        267
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    },
+    {
+      "original": "04e50b5f0b17d843de6081eb59150452.jpg",
+      "class": "\u0424\u0443\u0431\u0443\u043a\u0438",
+      "original_size": [
+        564,
+        752
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    },
+    {
+      "original": "06f045b6e37e25b73d99d84d0b32cb55.jpg",
+      "class": "\u0424\u0443\u0431\u0443\u043a\u0438",
+      "original_size": [
+        564,
+        564
+      ],
+      "augmented": {
+        "light": {
+          "augmentations": [
+            "Flip",
+            "Noise"
+          ],
+          "output_type": "tensor"
+        },
+        "medium": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "Erase"
+          ],
+          "output_type": "tensor"
+        },
+        "heavy": {
+          "augmentations": [
+            "Flip",
+            "Noise",
+            "CutOut"
+          ],
+          "output_type": "tensor"
+        }
+      }
+    }
+  ]
+}
